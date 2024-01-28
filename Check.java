@@ -1,3 +1,3 @@
 Doing git operations
 example of git squash
-changes again
+changes again now
